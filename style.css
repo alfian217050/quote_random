@@ -1,0 +1,14 @@
+body {
+	text-align: center;
+}
+
+#quoteDisplay {
+	padding: 10px;
+	min-height: 60px;
+	background-color: black;
+	color: white;
+}
+
+button {
+	margin-top: 30px;
+}
